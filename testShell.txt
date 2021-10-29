@@ -1,0 +1,44 @@
+Script started on Sun 17 Oct 2021 07:25:53 PM EDT
+student@ELEC377-Student:~/ELEC377-Group-146/lab1$ pwd
+/home/student/ELEC377-Group-146/lab1
+student@ELEC377-Student:~/ELEC377-Group-146/lab1$ cd
+student@ELEC377-Student:~$ pwd
+/home/student
+student@ELEC377-Student:~$ cd ELEC377-Group-146/
+student@ELEC377-Student:~/ELEC377-Group-146$ ls
+lab0  lab1  ssh
+student@ELEC377-Student:~/ELEC377-Group-146$ cd lab1
+student@ELEC377-Student:~/ELEC377-Group-146/lab1$ ls-a
+.  ..  .shell.c.swo  .shell.c.swp  Makefile  change  shell  shell.c  testSplitCommand.txt
+student@ELEC377-Student:~/ELEC377-Group-146/lab1$ shell
+%> jfdklfsd
+Unrecognized input
+%> pwd
+/home/student/ELEC377-Group-146/lab1
+%> cd
+%> pwd
+/home/student
+%> cd akdjads
+Directory does not exist
+%> cd ELEC-377-Group-146
+%> ls abdsa
+Incorrect argument for ls function
+%> ls
+lab0
+lab1
+ssh
+%> cd lab1
+%> ls -a
+.
+..
+Makefile
+shell
+shell.c
+change
+.shell.c.swp
+.shell.c.swo
+testSplitCommand.txt
+%> exit
+student@ELEC377-Student:~/ELEC377-Group-146/lab1$ exit
+
+Script done on Sun 17 Oct 2021 07:28:34 PM EDT
